@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lidiya</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<a name="telegram" href="https://t.me/LidiyaVladislavovna"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="watsapp" href="https://wa.me/79312665752"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <p align="left">
 </p>
 
